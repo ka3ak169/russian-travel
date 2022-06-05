@@ -1,0 +1,8 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    color: #fff;
+    width: calc(100% - 96px);
+    margin-top: 28px;
+
+}
