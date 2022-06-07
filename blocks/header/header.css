@@ -4,5 +4,11 @@
     color: #fff;
     width: calc(100% - 96px);
     margin-top: 28px;
+    justify-content: space-between;
+}
 
+@media screen and (max-width: 768px) {
+    .header {
+        width: calc(100% - 48px); 
+    }
 }
