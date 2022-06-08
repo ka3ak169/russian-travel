@@ -1,0 +1,14 @@
+.website {
+    grid-column-start: 2;
+    grid-row-start: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-start;
+}
+
+@media screen and (max-width: 320px) {
+    .website {
+      padding: 0 16px 0;
+    }
+}

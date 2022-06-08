@@ -1,0 +1,11 @@
+.website__link {
+    margin-top: 12px;
+    font-size: 18px;
+    line-height: 22px;
+    text-decoration-line: underline;
+    color: #fff;
+}
+
+.website__link:hover {
+    opacity: .8;
+}
