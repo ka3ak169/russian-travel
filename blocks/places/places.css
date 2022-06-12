@@ -10,20 +10,20 @@
 
 @media screen and (max-width: 1024px) {
     .places {
-      padding: 0 48px 0;  
+      padding: 0 48px 0;
     }
 }
 
 @media screen and (max-width: 768px) {
     .places {
-      padding: 0 24px 0;  
+      padding: 0 24px 0;
       margin: 88px 0 0;
     }
 }
 
 @media screen and (max-width: 320px) {
     .places {
-      padding: 0; 
+      padding: 0;
       margin: 64px 0 0;
     }
 }
