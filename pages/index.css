@@ -33,3 +33,14 @@
 @import url(../blocks/website/website.css);
 @import url(../blocks/website/website__link/website__link.css);
 @import url(../blocks/website/website__url-heading/website__url-heading.css);
+/*блок cover*/
+@import url(../blocks/cover/cover.css);
+@import url(../blocks/cover/cover__title/cover__title.css);
+@import url(../blocks/cover/cover__subtitle/cover__subtitle.css);
+@import url(../blocks/cover/cover__overlay/cover__overlay.css);
+@import url(../blocks/cover/cover__image/cover__image.css);
+/*блок footer*/
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/footer__links/footer__links.css);
+@import url(../blocks/footer/footer__link/footer__link.css);
+@import url(../blocks/footer/footer__copyright/footer__copyright.css);
