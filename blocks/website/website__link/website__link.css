@@ -4,6 +4,7 @@
     line-height: 22px;
     text-decoration-line: underline;
     color: #fff;
+    box-sizing: border-box;
 }
 
 .website__link:hover {

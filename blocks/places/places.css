@@ -3,27 +3,26 @@
     flex-direction: column;
     align-items: center;
     margin: 92px 0 0;
-    padding: 0 148px 0;
-    max-width: 100vw;
+    max-width: calc(100% - 296px);
 }
 
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1023px) {
     .places {
-      padding: 0 48px 0;
+      max-width: calc(100% - 96px);
     }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
     .places {
-      padding: 0 24px 0;
+      max-width: calc(100% - 48px);
       margin: 88px 0 0;
     }
 }
 
 @media screen and (max-width: 320px) {
     .places {
-      padding: 0;
+      max-width: 100%;
       margin: 64px 0 0;
     }
 }

@@ -10,5 +10,6 @@
 
    .lead { 
     padding-top: 48px;
+    object-fit: contain;
    }
 }

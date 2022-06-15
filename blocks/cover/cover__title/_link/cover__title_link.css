@@ -1,0 +1,11 @@
+.cover__title_link {
+    text-decoration: none;
+    color: #fff;
+}
+
+@media screen and (max-width: 320px) {
+    .cover__title_link {
+        font-size: 32px;
+        line-height: 35px;
+    }
+}
