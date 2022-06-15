@@ -3,6 +3,10 @@
     margin-right: 18px;
     box-sizing: border-box;
     max-width: 100%;
+    text-decoration: none;
+    color: #fff;
+    font-size: 16px;
+    line-height: 18px;
 }
 
 .footer__link:hover {
@@ -13,6 +17,8 @@
     .footer__link {
         margin: 0;
         margin-bottom: 32px;
+        font-size: 24px;
+        line-height: 24px;
     }
 
     .footer__link:last-child {
