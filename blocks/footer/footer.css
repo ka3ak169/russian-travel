@@ -3,9 +3,12 @@
     flex-direction: row;
     flex-wrap: nowrap;
     justify-content: space-between;
-    width: calc(100% - 96px);
+    align-items: flex-end;
+    width: 100%;
     margin: 92px 0 24px;
+    padding: 0 48px 0;
     box-sizing: border-box;
+
 }
 
 @media screen and (max-width: 1024px) {
@@ -14,11 +17,17 @@
     }
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 768px) {
+    .footer {
+        padding: 0 24px 0;
+    }
+}
+
+@media screen and (max-width: 760px) {
     .footer {
         margin: 64px 0 24px 0;
         flex-direction: column;
-        width: calc(100% - 32px);
+        padding: 0 32px 0;
         align-items: flex-start;
     }
-}
+} 
