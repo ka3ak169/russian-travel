@@ -27,12 +27,4 @@
          url("./fonts/Inter-Bold.woff") format("woff");
   }
 
-  @font-face {
-    font-family: 'Inter';
-    font-style:  normal;
-    font-weight: 800;
-    font-display: swap;
-    src: url("./fonts/Inter-ExtraBold.woff") format("woff");
-  }
-
  

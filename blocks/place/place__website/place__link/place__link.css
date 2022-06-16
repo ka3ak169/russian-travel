@@ -1,4 +1,4 @@
-.website__link {
+.place__link {
     margin-top: 12px;
     font-size: 18px;
     line-height: 22px;
@@ -7,6 +7,6 @@
     box-sizing: border-box;
 }
 
-.website__link:hover {
+.place__link:hover {
     opacity: .8;
 }
