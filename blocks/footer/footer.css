@@ -27,7 +27,7 @@
     .footer {
         margin: 64px 0 24px 0;
         flex-direction: column;
-        padding: 0 32px 0;
+        padding: 0 16px 0;
         align-items: flex-start;
     }
 } 
